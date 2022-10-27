@@ -4,5 +4,7 @@ Capitale de la France
 
 
 <a href="https://github.com/gavet92/LABY/blob/main/tokyo.md">Direction Tokyo</a><br>
+<a href="https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/index.md">Direction la raclette</a><br>
+<a href="https://github.com/gavet92/LABY/blob/main/Gonesse.md">Direction Gonesse</a>
 
 Malcolm
