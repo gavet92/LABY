@@ -7,7 +7,7 @@ Tokyo /to.kjo/2 (東京, Tōkyō?, /toːkʲoː/3 Écouter, litt. « Capitale de 
 ![image](https://user-images.githubusercontent.com/115066388/198039579-e6b839c6-0583-4324-9e34-898f5809e468.png)
 
 
-<a href="https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/index.md"><img src="https://user-images.githubusercontent.com/115066388/198050519-114df67a-f343-4583-96b8-855e4f4d957b.png" alt="dogo" /></a>
+<a href="https://github.com/gavet92/LABY/blob/main/GAME_OVER.md">Direction le bureau de poutine</a><img src="https://user-images.githubusercontent.com/115066388/198050519-114df67a-f343-4583-96b8-855e4f4d957b.png" alt="dogo" /></a>
 
 
 Ballens françois
